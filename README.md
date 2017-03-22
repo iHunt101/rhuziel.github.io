@@ -1,2 +1,2 @@
-This is a webpage of MamRoland Solutions BETA.
+This is a webpage of ManRoland Solutions BETA.
 # rhuziel.github.io
